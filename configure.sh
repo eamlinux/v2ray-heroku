@@ -50,8 +50,8 @@ cat << EOF > /usr/local/etc/v2ray/config.json
   ],
   "dns": {
     "servers": [
-      "https://cloudflare-dns.com/dns-query",
-      "https://dns.google/dns-query",
+        "https://cloudflare-dns.com/dns-query",
+        "https://dns.google/dns-query",
         "1.1.1.1",
         "1.0.0.1",
         "8.8.8.8",
